@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Gabriel Willians 👋
 
-- 🌱 Estou estudando Banco de dados, Azure e Java
+- 🌱 Estou estudando atualmente Banco de dados, Azure , AWS, GCP
 - 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/Gabriel7812">
