@@ -19,7 +19,7 @@
   <img align="center" alt="Biel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Biel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://github.com/Gabriel7812/my_gifs/blob/e145602e36981d106c804bcd27a7793aecf636c8/Tecnologia.gif">
+  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://github.com/Gabriel7812/my_gifs/blob/e145602e36981d106c804bcd27a7793aecf636c8/JustLive.jpg">
   
 </div>
   
