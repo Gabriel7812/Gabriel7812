@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Gabriel Willians 👋
 
-- 🌱 Actually i study: Azure , AWS, GCP
+- 🌱 Currently I study: Azure , AWS, GCP
 - 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/Gabriel7812">
