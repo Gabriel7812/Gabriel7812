@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Gabriel Willians 👋
 
 - 🌱 Currently I study: Azure , AWS, GCP
-- 😄 Pronouns: He/His (Ele/Dele)
+- 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/Gabriel7812">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel7812&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
