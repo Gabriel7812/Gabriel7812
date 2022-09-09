@@ -1,4 +1,4 @@
-### Ola! Eu sou o Gabriel Willians 👋
+### Hello! I am Gabriel Willians 👋
 
 - 🌱 Currently I study: Azure , AWS, GCP
 - 😄 Pronouns: Ele/Dele
